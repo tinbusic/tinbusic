@@ -4,7 +4,7 @@
 [FER](https://www.fer.unizg.hr/en)
 
 ### ⌨️ Working experience as an Android Developer
-2+ years
+3+ years
 
 ### 💼 Project count
 5+
