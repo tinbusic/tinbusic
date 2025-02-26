@@ -17,4 +17,3 @@ Figma, Slack, SourceTree, Charles, Jira, Postman, Sublime, Discord, Github, Gitl
 
 ### 🧮 Programming languages that I use
 Kotlin, Java, JavaScript
-
