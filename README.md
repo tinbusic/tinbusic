@@ -3,7 +3,7 @@
 ### 🏫 Education
 [FER](https://www.fer.unizg.hr/en)
 
-### ⌨️ Working experience as an Android Developer
+### ⌨️ Working experience as an Android Developer 
 3+ years
 
 ### 💼 Project count
